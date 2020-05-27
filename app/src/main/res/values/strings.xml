@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hello_world">Hello World</string>
+    
+    <string-array name="headerTitles">
+        <item>Action Movies</item>
+        <item>Romantic Movies</item>
+        <item>Horror Movies</item>
+    </string-array>
+
+    <string-array name="header_1_Items">
+        <item>The Dark Knight</item>
+        <item>Minority Report</item>
+        <item>The Bourne Ultimatum</item>
+    </string-array>
+    <string-array name="header_2_Items">
+        <item>50 Shades of Grey</item>
+        <item>The Age of Adaline</item>
+        <item>Titanic</item>
+    </string-array>
+    <string-array name="header_3_Items">
+        <item>Insidious Chapter 3</item>
+        <item>It Follows</item>
+        <item>We Are Still Here</item>
+    </string-array>
+</resources>
